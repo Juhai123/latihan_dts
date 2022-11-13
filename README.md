@@ -1,5 +1,11 @@
-<h4>Penjelasan tentang Tugas6<h4>
-<h5>Di tugas sebelumnya yaitu tugas 6 sudah membuat aplikasi kalkulator sederhana,
-User bisa menginputkan bilangan, setelah itu hasilnya terdapat nilai dari penjumlahan, pengurangan, pembagian dan pengurangan,
-Terdapat 1 method yaitu method POST,
-Function langsung dieksekusi tanpa dijadikan public function terlebih dahulu<h3>
+## Deploy Project Menggunakan Github
+
+- Pastikan sudah memiliki akun github, jika belum silahkan buat akun github terlebih dahulu di https://github.com/
+- Setelah itu klik new pada repository github kalian
+- Buat nama repository yang kalian kehendaki
+- Untuk status bisa dipilih jika public maka akan terlihat ke semua orang, jika data bersifat rahasia maka pilihlah privat.
+- Klik Create repository 
+- Repository telah berhasil dibuat
+
+
+
