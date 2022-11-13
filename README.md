@@ -8,7 +8,7 @@
 - Klik Create repository 
 - Repository telah berhasil dibuat
 
-<h3>Menambahkan Isi ke Repository Github</h3>
+<b>Menambahkan Isi ke Repository Github</b>
 - Buka software Visual Studio code/Git Bash ketikkan kode seperti ini :
 - git init
 - git add .
@@ -17,6 +17,20 @@
 - git remote add origin (disini nantinya akan tertera link yang akan muncul di github kalian)
 - git push -u origin main
 - Buka kembali github kalian project kalian akan ada di github
+
+
+## Cloning file dari Github
+
+- Jika mendownload file zip ekstrak terlebih dahulu dan letakkan folder yang diekstrak tadi ke dalam file C:xampp/htdocs
+- Jika dari link buka terminal ketikkan kode ini : git clone (tuliskan linknya)
+- Setelah itu instal composer : composer install
+- cp .env.example .env (untuk mencopy file .env)
+- php artisan config:cache
+- php artisan key:generate
+- Buat nama database dan ganti DB_DATABASE dengan nama database yang telah dibuat. 
+- php artisan migrate
+- php artisan db:seed
+
 
 
 
