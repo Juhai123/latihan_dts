@@ -28,8 +28,8 @@
 - php artisan config:cache
 - php artisan key:generate
 - Buat nama database dan ganti DB_DATABASE dengan nama database yang telah dibuat. 
-- php artisan migrate
-- php artisan db:seed
+- <b>php artisan migrate</b>
+- <b>php artisan db:seed</b>
 
 
 
