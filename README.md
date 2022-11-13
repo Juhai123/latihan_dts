@@ -1,6 +1,6 @@
 ## Deploy Project Menggunakan Github
 
-<h3>Membuat Repository Github</h3>
+<b>Membuat Repository Github</b>
 - Pastikan sudah memiliki akun github, jika belum silahkan buat akun github terlebih dahulu di https://github.com/
 - Setelah itu klik new pada repository github kalian
 - Buat nama repository yang kalian kehendaki
